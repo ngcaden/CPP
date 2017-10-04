@@ -1,9 +1,10 @@
 /* Author: Quang Nguyen
 Programme last changed 4th October 2017 */
 
-/* This programme promts the user for the current year, the user's
-current age, and another year. It then calculates the age 
-that the user was or will be in the second year entered */
+/* This programme promts the user for the current year, current month,
+the user's current age, the users' month of birth, another year and
+another month. It then calculates the age that the user was or will be 
+in the year and month entered */
 
 #include <iostream>
 
